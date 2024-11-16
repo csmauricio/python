@@ -60,3 +60,7 @@ print("#" +linguagem_favorita + "#")
 #print('One of Python's strengths is its diverse community.')
 #Correto
 print("One of Python's strengths is its diverse community.")
+
+#Citação famosa
+citacao = 'Albert Einstein certa vez disse: ' + '“' + 'Uma pessoa que nunca cometeu um erro jamais tentou nada novo.' + '”'
+print(citacao)
